@@ -1,4 +1,4 @@
-
+# This is hacky hackathon code
 import numpy as np
 import cv2
 
